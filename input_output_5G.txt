@@ -1,0 +1,20 @@
+Input Configurations of the measurement:
+	protocol = 'TCP'  # Choose 'TCP' or 'UDP'
+	Port = 5201 # it's just the port number, no significant meaning
+	duration = 1  # Test duration in seconds
+	bandwidth = 'infinite'  # Max bandwidth (e.g., '10M' for 10 Mbps, '1G' for 1 Gbps, or 'infinite' for uncapped)
+	num_streams = 4  # Number of parallel streams
+	
+	These are not written in the logs.
+	num_runs = 1000  # Number of times to repeat
+	blksize = 131072 # for TCP default = 131072, UDP default = 1402
+
+Outputs: (mostly reports from iperf3)
+	Timestamp
+	Bytes Sent
+	Throughput (Mbps)
+	RTT (ms)
+	Retransmits 
+	Jitter (ms) # only UDP
+	Packet Loss (%) # only UDP
+	CPU Util (%)	
