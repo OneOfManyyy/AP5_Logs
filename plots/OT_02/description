@@ -1,0 +1,13 @@
+ran with clients 3,4,5
+
+3 clients side by side, server 2 meters away
+put all of the dongles slightly outside of the window
+
+client 4 dc after 1 run and cant continue. probably cuz of tcp. 
+might get solved if the distance of dongles increases or the BW cap is reduced
+
+1000000 BW
+20 runs 
+length for all 10 sec
+
+

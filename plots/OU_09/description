@@ -1,0 +1,15 @@
+ran with clients 3,4,5
+
+3 clients side by side, server 2 meters away
+put all of the dongles slightly outside of the window
+
+ran all together with lower BW cap and they ran without dc
+
+at least client run failed
+
+2 streams instead of 4
+800000 BW
+20 runs 
+length for all 10 sec
+
+

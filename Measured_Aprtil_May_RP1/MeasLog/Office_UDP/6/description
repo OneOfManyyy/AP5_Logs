@@ -1,0 +1,14 @@
+ran with clients 3,4,5
+
+3 clients side by side, server 2 meters away
+put all of the dongles slightly outside of the window
+
+ran all together with lower BW cap and they ran without dc
+
+ran without problem. it appears when we change the place of the dongle it takes it some time to adjust and get stable connection
+
+300000 BW
+20 runs 
+length for all 10 sec
+
+

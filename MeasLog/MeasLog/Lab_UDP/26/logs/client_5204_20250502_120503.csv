@@ -1,0 +1,2 @@
+Timestamp,Protocol,Port,Bytes Sent,Throughput (Mbps),Duration,Streams,Bandwidth,RTT (ms),Retransmits,Jitter (ms),Packet Loss (%),CPU Util (%)
+2025-05-02 12:05:03,UDP,5204,N/A,N/A,1,4,infinite,50.915,N/A,4.061894462006919,96.59578270192995,81.73689981747545

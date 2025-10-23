@@ -1,0 +1,21 @@
+ran with clients 3,4,5
+
+all 4 boards (server and 3 clients) put together
+
+put all of the dongles slightly outside of the window
+
+ran all together with 4 stream each on max BW and no dc!!!
+inconsistency?!
+
+testing different bulk sizes	131072
+
+
+4 streams
+Inf BW
+
+100 runs 30sec rp3
+150 runs 20sec rp4
+300 runs 10sec rp5
+
+
+

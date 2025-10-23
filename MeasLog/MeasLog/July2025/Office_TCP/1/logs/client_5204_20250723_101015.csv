@@ -1,0 +1,2 @@
+Timestamp,Protocol,Port,Bytes Sent,Throughput (Mbps),Duration,Streams,Bandwidth,RTT (ms),Retransmits,Jitter (ms),Packet Loss (%),CPU Util (%)
+2025-07-23 10:10:15,TCP,5204,41843080,16.73651484033909,20,4,infinite,19.995,391,N/A,N/A,0.2812921861035036

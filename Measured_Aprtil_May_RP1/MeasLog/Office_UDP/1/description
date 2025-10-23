@@ -1,0 +1,11 @@
+ran with clients 3,4,5
+
+3 clients side by side, server 2 meters away
+
+all dongles a little bit inside of the window to test bad connection
+
+client 5 dc after 2 runs and cant continue. probably cuz of tcp
+
+1000000 BW
+20 runs 
+length for all 10 sec
